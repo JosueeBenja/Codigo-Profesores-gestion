@@ -1,0 +1,9 @@
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos profesores gestion.csproj.AssemblyReference.cache
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos_profesores_gestion.Form1.resources
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos_profesores_gestion.GestionDeProfesores.resources
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos_profesores_gestion.RegistrarProfesor.resources
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos profesores gestion.csproj.GenerateResource.cache
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos profesores gestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos profesores gestion.AssemblyInfoInputs.cache
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos profesores gestion.AssemblyInfo.cs
+C:\Users\Gonzalez\Desktop\Tarea codigo parcial 2\Codigos profesores gestion\obj\Debug\net6.0-windows\Codigos profesores gestion.csproj.CoreCompileInputs.cache
